@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gozzim&count_private=true&show_icons=true)](https://github.com/gozzim/)
+[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozzim&count_private=true&show_icons=true)](https://github.com/gozzim/)
 
-[![Gozzim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gozzim&layout=compact&langs_count=6)](https://github.com/gozzim/)
+[![Gozzim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gozzim&langs_count=6&layout=compact)](https://github.com/gozzim/)
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
+<a href="https://python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="cplusplus" width="30" height="30"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
