@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozzim&count_private=true&show_icons=true)](https://github.com/gozzim/)
+[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozzim&include_all_commits=true&show_icons=true)](https://github.com/gozzim/)
 
 [![Gozzim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gozzim&langs_count=6&layout=compact)](https://github.com/gozzim/)
 <h4 align="left">Languages and Tools:</h4>
