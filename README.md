@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozzim&include_all_commits=true&show_icons=true)](https://github.com/gozzim/)
+[![Gozzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gozzim&show_icons=true&include_all_commits=true)](https://github.com/gozzim/)
 
-[![Gozzim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gozzim&langs_count=6&layout=compact)](https://github.com/gozzim/)
+[![Gozzim's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gozzim&layout=compact&langs_count=6)](https://github.com/gozzim/)
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
@@ -23,7 +23,7 @@
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on anything interesting
+- 👯 I’m looking to collaborate on anything interesting...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
